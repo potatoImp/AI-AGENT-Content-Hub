@@ -6,7 +6,7 @@
 [【复旦大学 全面梳理了基于大型语言模型的智能代理现状（一文纵览AI智能体的现状与未来）】](https://arxiv.org/abs/2309.07864) [[github]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
 
-[【斯坦福研究院 斯坦福小镇（在这个小镇上,25 个 AI 智能体正常生活、工作、社交,甚至谈恋爱）】]((http://arxiv.org/pdf/2304.03442)) [[paper]](http://arxiv.org/pdf/2304.03442)   [[github]](https://github.com/joonspk-research/genagents) 
+[【斯坦福研究院 斯坦福小镇（在这个小镇上,25 个 AI 智能体正常生活、工作、社交,甚至谈恋爱】](http://arxiv.org/pdf/2304.03442) [[paper]](http://arxiv.org/pdf/2304.03442)   [[github]](https://github.com/joonspk-research/genagents) 
 
 [【普林斯顿博士/清华学霸/openai 姚顺雨（反思：具有言语强化学习的Language Agents）】](https://arxiv.org/abs/2303.11366) [[paper]](https://arxiv.org/abs/2303.11366)   [[github]](https://github.com/noahshinn/reflexion) 
 
