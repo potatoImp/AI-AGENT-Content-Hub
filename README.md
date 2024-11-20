@@ -2,8 +2,6 @@
 目前最齐全的ai-agent学习资料，从paper、原理、新出项目以及ai-agent使用到各种奇怪的用法，持续更新中.....
 
 
-![image](https://github.com/user-attachments/assets/1693be7a-2cda-4303-8a7c-b2197a515688)
-
 # 学术前沿
 [【复旦大学 全面梳理了基于大型语言模型的智能代理现状（一文纵览AI智能体的现状与未来）】](https://arxiv.org/abs/2309.07864) [[github]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
