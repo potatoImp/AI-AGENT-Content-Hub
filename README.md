@@ -19,6 +19,7 @@ MetaGPT是一个突破性的框架,它将多个 AI 模型整合在一起,共同�
 
 
 [【AutoGPT: Build, Deploy, and Run AI Agents】](https://github.com/Significant-Gravitas/AutoGPTl)   [[github]](https://github.com/Significant-Gravitas/AutoGPT)  [[官方文档]](https://docs.agpt.co/)
+
 openai推出，AutoGPT是一个强大的平台，允许您创建、部署和管理连续的人工智能代理，使复杂的工作流程自动化。
 
 # 行业前沿ai agent平台应用
