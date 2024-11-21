@@ -1,4 +1,4 @@
-# AI-AGENT-Content-Hub
+# ai-agent-Content-Hub
 目前最齐全的ai-agent学习资料，从paper、原理、新出项目以及ai-agent使用到各种奇怪的用法，持续更新中.....
 
 
