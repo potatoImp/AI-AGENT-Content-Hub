@@ -13,12 +13,13 @@
 [【普林斯顿博士/清华学霸/openai 姚顺雨（如何对 AI agent进行基准测试）】](https://arxiv.org/abs/2406.12045) [[paper]](https://arxiv.org/abs/2406.12045)   [[github]](https://github.com/sierra-research/tau-bench)[[blog]](https://sierra.ai/blog/benchmarking-ai-agents) 
 
 # 开源项目
-[【MetaGPT: The Multi-Agent Framework（用于多智能体协作框架的元编程）】](https://docs.deepwisdom.ai/v0.4/zh/guide/get_started/introduction.html)  [[paper]](https://arxiv.org/abs/2308.00352) [[github]](https://github.com/geekan/MetaGPT) [[官方文档]](https://docs.deepwisdom.ai/v0.4/zh/guide/get_started/introduction.html)
+[【MetaGPT: The Multi-Agent Framework（用于多智能体协作框架的元编程）】](https://docs.deepwisdom.ai/v0.4/zh/guide/get_started/introduction.html)  [[paper]](https://arxiv.org/abs/2308.00352) [[github]](https://github.com/geekan/MetaGPT)  [[官方文档]](https://docs.deepwisdom.ai/v0.4/zh/guide/get_started/introduction.html)
 
 MetaGPT是一个突破性的框架,它将多个 AI 模型整合在一起,共同工作,模仿现实世界公司的运作。
 
 
-[【AutoGPT: Build, Deploy, and Run AI Agents（AutoGPT是一个强大的平台，允许您创建、部署和管理连续的人工智能代理，使复杂的工作流程自动化。）】](https://github.com/Significant-Gravitas/AutoGPTl)   [[github]](https://github.com/Significant-Gravitas/AutoGPT) [[官方文档]](https://docs.agpt.co/)
+[【AutoGPT: Build, Deploy, and Run AI Agents（AutoGPT是一个强大的平台，允许您创建、部署和管理连续的人工智能代理，使复杂的工作流程自动化。）】](https://github.com/Significant-Gravitas/AutoGPTl)   [[github]](https://github.com/Significant-Gravitas/AutoGPT)  [[官方文档]](https://docs.agpt.co/)
+
 
 # 行业前沿ai agent平台应用
 ## 国内版本
@@ -30,7 +31,11 @@ MetaGPT是一个突破性的框架,它将多个 AI 模型整合在一起,共同�
 [【字节跳动 国外版 扣子 coze】](https://www.coze.com) [[官方文档]](https://www.coze.com/docs/guides/quickstart)
 
 [【Google Dialogflow（构建自然语言理解的对话界面，与Google Assistant无缝集成。）】](https://dialogflow.cloud.google.com/) [[官方文档]](https://cloud.google.com/dialogflow/docs)
+
 [【Microsoft Bot Framework（一个全面的框架，用于构建企业级的会话AI体验，支持多种语言和平台。）】](https://www.ibm.com/watson/ai-assistant/) [[官方文档]](https://cloud.ibm.com/docs/assistant)
+
 [【Amazon Lex（使用与Alexa相同的技术构建聊天机器人和语音界面，轻松集成到任何应用程序中。）】](https://aws.amazon.com/lex/) [[官方文档]](https://docs.aws.amazon.com/lex/)
+
 [【IBM Watson Assistant（利用IBM的AI技术，创建能够理解自然语言并提供深入洞察的虚拟助手。）】](https://www.ibm.com/watson/ai-assistant/) [[官方文档]](https://cloud.ibm.com/docs/assistant)
+
 [【Rasa（开源的对话AI平台，用于构建和部署自定义的聊天机器人和虚拟助）】](https://rasa.com/) [[官方文档]](https://rasa.com/docs/)
