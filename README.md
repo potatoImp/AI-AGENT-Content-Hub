@@ -20,3 +20,9 @@
 
 ## 国外版本
 [【字节跳动 国外版 扣子 coze】](https://www.coze.com) [[官方文档]](https://www.coze.com/docs/guides/quickstart)
+
+[【Google Dialogflow（构建自然语言理解的对话界面，与Google Assistant无缝集成。）】](https://dialogflow.cloud.google.com/) [[官方文档]](https://cloud.google.com/dialogflow/docs)
+[【Microsoft Bot Framework（一个全面的框架，用于构建企业级的会话AI体验，支持多种语言和平台。）】](https://www.ibm.com/watson/ai-assistant/) [[官方文档]](https://cloud.ibm.com/docs/assistant)
+[【Amazon Lex（使用与Alexa相同的技术构建聊天机器人和语音界面，轻松集成到任何应用程序中。）】](https://aws.amazon.com/lex/) [[官方文档]](https://docs.aws.amazon.com/lex/)
+[【IBM Watson Assistant（利用IBM的AI技术，创建能够理解自然语言并提供深入洞察的虚拟助手。）】](https://www.ibm.com/watson/ai-assistant/) [[官方文档]](https://cloud.ibm.com/docs/assistant)
+[【Rasa（开源的对话AI平台，用于构建和部署自定义的聊天机器人和虚拟助）】](https://rasa.com/) [[官方文档]](https://rasa.com/docs/)
