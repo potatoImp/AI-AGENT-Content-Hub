@@ -14,6 +14,7 @@
 
 # 开源项目
 [【MetaGPT: The Multi-Agent Framework（用于多智能体协作框架的元编程）】](https://docs.deepwisdom.ai/v0.4/zh/guide/get_started/introduction.html)  [[paper]](https://arxiv.org/abs/2308.00352) [[github]](https://github.com/geekan/MetaGPT) [[官方文档]](https://docs.deepwisdom.ai/v0.4/zh/guide/get_started/introduction.html)
+
 MetaGPT是一个突破性的框架,它将多个 AI 模型整合在一起,共同工作,模仿现实世界公司的运作。
 
 
