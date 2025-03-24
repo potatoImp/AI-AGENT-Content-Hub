@@ -69,3 +69,24 @@ FastGPT 是一个基于 LLM 大语言模型的知识库问答系统，提供开�
 
 [【suno（每日可以免费通过AI生成五首歌的积分额度）】](https://suno.com/) [[官方文档]](https://suno.com/)
 
+
+# 人工智能风投
+
+[【Venture Capital Journal】](https://www.venturecapitaljournal.com/) 
+一家领先的出版物，提供风险投资行业的最新新闻和情报，并日益关注人工智能领域的投资。
+
+[【Crunchbase News】](https://news.crunchbase.com/) 
+提供关于私募市场、初创公司、创始人和投资者的数据驱动报告，并设有专门的人工智能新闻版块。
+
+[【PitchBook】](https://pitchbook.com/news/venture-capital) 
+提供全球风险投资、私募股权和并购的全面新闻与分析，并越来越重视包括人工智能在内的科技领域。
+
+[【a16z】](https://a16z.com/news-content/) 
+Andreessen Horowitz (a16z) 是一家著名的风险投资公司的官方新闻和内容平台，对人工智能及相关技术领域有深入的见解和投资。
+
+[【VC News — Tech Funding News】](https://techfundingnews.com/category/vc/) 
+一个专注于技术融资的新闻网站，设有专门的人工智能新闻类别，报道融资轮次和市场趋势。
+
+[【VC News Daily】](https://vcnewsdaily.com/) 
+每日更新风险投资融资和技术初创公司的新闻，频繁报道人工智能公司的融资情况。
+
