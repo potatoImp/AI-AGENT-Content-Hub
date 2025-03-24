@@ -18,15 +18,35 @@
 MetaGPT是一个突破性的框架,它将多个 AI 模型整合在一起,共同工作,模仿现实世界公司的运作。
 
 
-[【AutoGPT: Build, Deploy, and Run AI Agents】](https://github.com/Significant-Gravitas/AutoGPTl)   [[github]](https://github.com/Significant-Gravitas/AutoGPT)  [[官方文档]](https://docs.agpt.co/)
+[【AutoGPT: Build, Deploy, and Run AI Agents】](https://github.com/Significant-Gravitas/AutoGPTl)   [[github]](https://github.com/Significant-Gravitas/AutoGPT)  [[试用地址]](https://tryfastgpt.ai/)
 
 openai推出，AutoGPT是一个强大的平台，允许您创建、部署和管理连续的人工智能代理，使复杂的工作流程自动化。
+
+
+## LLM
+
+[【anythingllm】](https://anythingllm.com/)   [[github]](https://github.com/Mintplex-Labs/anything-llm/tree/master)  
+全栈应用程序，可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文，以便任何大语言模型（LLM）在聊天期间作为参考使用。此应用程序允许您选择使用哪个LLM或向量数据库，同时支持多用户管理并设置不同权限。
+
+[【ollama】](https://ollama.com/)   [[github]](https://github.com/ollama/ollama)  
+
+一个开源的大型语言模型服务工具，旨在帮助用户快速在本地运行大模型。
+
 
 # 行业前沿ai agent平台应用
 ## 国内版本
 [【字节跳动 国内版 扣子 coze】](https://www.coze.cn)  [[官方文档]](https://www.coze.cn/docs/guides/quickstart)
+初学者很容易上手，对于技术开发者也是非常好用
 
 [【文心一言 agentbuilder】](https://agents.baidu.com)  [[官方文档]](https://agents.baidu.com/docs/intelligent-agent/zero_code_develop/)
+百度定位AI原生应用的平台，定位企业级、商业化的AI应用开发
+
+[【苏州语灵人工智能科技公司 dify （开源）】](https://github.com/langgenius/dify)  [[官方文档]](https://docs.dify.ai/)
+具有完善的Agent开发各项功能，并支持非常多的国内外大模型，且提供云服务和本地部署两种方式，主要面向海外市场。
+
+[【 环界云计算公司 FastGPT （开源）】](https://github.com/labring/FastGPT)  [[官方文档]](https://doc.tryfastgpt.ai/docs/intro/)  [[官方文档]](https://doc.tryfastgpt.ai/docs/intro/)  [在线试用地址](https://tryfastgpt.ai/)
+FastGPT 是一个基于 LLM 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景！
+
 
 ## 国外版本
 [【字节跳动 国外版 扣子 coze】](https://www.coze.com) [[官方文档]](https://www.coze.com/docs/guides/quickstart)
@@ -40,3 +60,12 @@ openai推出，AutoGPT是一个强大的平台，允许您创建、部署和管�
 [【IBM Watson Assistant（利用IBM的AI技术，创建能够理解自然语言并提供深入洞察的虚拟助手。）】](https://www.ibm.com/watson/ai-assistant/) [[官方文档]](https://cloud.ibm.com/docs/assistant)
 
 [【Rasa（开源的对话AI平台，用于构建和部署自定义的聊天机器人和虚拟助）】](https://rasa.com/) [[官方文档]](https://rasa.com/docs/)
+
+
+
+# AI平台
+
+[【stablevideo（免费的AI视频生产服务）】](https://www.stablevideo.com/welcome) [[官方文档]](https://www.stablevideo.com/welcome)
+
+[【suno（每日可以免费通过AI生成五首歌的积分额度）】](https://suno.com/) [[官方文档]](https://suno.com/)
+
