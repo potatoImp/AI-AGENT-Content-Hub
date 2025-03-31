@@ -52,6 +52,10 @@ FastGPT 是一个基于 LLM 大语言模型的知识库问答系统，提供开�
 Manus定位于一位性能强大的通用型助手，对于用户不仅仅是提供想法，而是能将想法付诸实践，真正解决问题。
 
 ## 国外版本
+
+[【Google Gemini（新版本主推原生多模态输入输出+Agent）】](https://dialogflow.cloud.google.com/) [[官方地址]](https://gemini.google.com/app)   [[官方文档]](https://ai.google.dev/gemini-api/docs/quickstart?hl=zh-cn&lang=python)  
+Gemini可以原生生成图像和音频，同时支持文本生成，还可以使用第三方应用程序和服务，使其能够访问谷歌搜索、执行代码等功能。
+
 [【字节跳动 国外版 扣子 coze】](https://www.coze.com) [[官方文档]](https://www.coze.com/docs/guides/quickstart)
 
 [【Google Dialogflow（构建自然语言理解的对话界面，与Google Assistant无缝集成。）】](https://dialogflow.cloud.google.com/) [[官方文档]](https://cloud.google.com/dialogflow/docs)
@@ -68,9 +72,20 @@ Manus定位于一位性能强大的通用型助手，对于用户不仅仅是提
 
 # AI平台
 
+注意：免费额度策略随时可能改变
+
+[【suno（每日可以免费通过AI生成五首歌的积分额度）】](https://suno.com/) [[官方文档]](https://help.suno.com/)
+
 [【stablevideo（免费的AI视频生产服务）】](https://www.stablevideo.com/welcome) [[官方文档]](https://www.stablevideo.com/welcome)
 
-[【suno（每日可以免费通过AI生成五首歌的积分额度）】](https://suno.com/) [[官方文档]](https://suno.com/)
+[【Midjourney（每日可以免费生成25张图）】](https://www.midjourney.com/) [[官方文档]](https://www.midjourney.com)
+
+[【DALL-E 2（由openai推出 第一次可以免费生成50张图，后每个月可以免费生成15张）】](https://openai.com/dall-e-2) [[官方文档]](https://platform.openai.com/docs/overview)
+
+[【Runway ML Gen-3 (免费额度可以生成二十个约4秒的视频)】](https://runwayml.com/) [[官方文档]](https://help.runwayml.com/hc/en-us/sections/30265301423635-Gen-3-Alpha)
+
+[【Claude Sonnet (优秀的辅助编程能力，低版本免费)】](https://claude.ai/) [[官方文档]](https://docs.anthropic.com/en/docs/welcome)
+
 
 
 # 人工智能风投
