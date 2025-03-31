@@ -23,7 +23,7 @@ MetaGPT是一个突破性的框架,它将多个 AI 模型整合在一起,共同�
 openai推出，AutoGPT是一个强大的平台，允许您创建、部署和管理连续的人工智能代理，使复杂的工作流程自动化。
 
 
-## LLM
+## 开源LLM相关库
 
 [【anythingllm】](https://anythingllm.com/)   [[github]](https://github.com/Mintplex-Labs/anything-llm/tree/master)  
 全栈应用程序，可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文，以便任何大语言模型（LLM）在聊天期间作为参考使用。此应用程序允许您选择使用哪个LLM或向量数据库，同时支持多用户管理并设置不同权限。
