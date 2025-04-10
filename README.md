@@ -2,7 +2,7 @@
 目前最齐全的ai-agent学习资料，从paper、原理、新出项目以及ai-agent使用到各种奇怪的用法，持续更新中.....
 
 # LLM　API（部分有免费额度）
-[【OpenRouter 每日免费调用200次】](https://openrouter.ai/)  [[官方文档]](https://www.coze.cn/docs/guides/quickstart)
+[【OpenRouter 每日免费调用200次】](https://openrouter.ai/)  [[官方文档]](https://openrouter.ai/docs/quickstart)
 每分钟最大请求次数20次，每天200次，日常使用应该是完全够了。(随时可能调整)
 
 
