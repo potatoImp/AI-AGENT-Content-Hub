@@ -1,9 +1,9 @@
 # ai-agent-Content-Hub
 目前最齐全的ai-agent学习资料，从paper、原理、新出项目以及ai-agent使用到各种奇怪的用法，持续更新中.....
 
-# LLM　API（调试免费额度管够，别说找不到API了）
+# LLM API（调试免费额度管够，别说找不到API了）
 
-[Google Gemini](https://ai.google.dev/aistudio) [[官方文档]]https://ai.google.dev/gemini-api/docs/ai-studio-quickstart)（需要科学上网）
+[Google Gemini](https://ai.google.dev/aistudio) [[官方文档]](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart)（需要科学上网）
 给了很多免费额度，gemini系列每天1500 个免费请求额度，每分钟限速 （100万token ） 15个请求，目前个人用户每天是够用的。
 
 [groq](https://console.groq.com/home)  [[官方文档]](https://console.groq.com/docs/overview)（需要科学上网）
