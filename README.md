@@ -5,10 +5,13 @@
 
 [Google Gemini](https://ai.google.dev/aistudio) [[官方文档]]https://ai.google.dev/gemini-api/docs/ai-studio-quickstart)（需要科学上网）
 给了很多免费额度，gemini系列每天1500 个免费请求额度，每分钟限速 （100万token ） 15个请求，目前个人用户每天是够用的。
+
 [groq](https://console.groq.com/home)  [[官方文档]](https://console.groq.com/docs/overview)（需要科学上网）
 提供gemma系列的免费额度，很多模型都有500k tokens每天的额度。
+
 [【OpenRouter 每日免费调用200次】](https://openrouter.ai/)  [[官方文档]](https://openrouter.ai/docs/quickstart)
 每分钟最大请求次数20次，每天200次，日常使用应该是完全够了。(随时可能调整)
+
 [siliconflow 硅基流动](https://siliconflow.cn/zh-cn/)   [[官方文档]](https://docs.siliconflow.cn/cn/userguide/introduction)
 提供免费的SD（文生图）、Qwen（阿里）、gemma、系列模型，国内直接访问。
 
