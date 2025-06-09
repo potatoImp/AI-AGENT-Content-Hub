@@ -53,6 +53,10 @@ RAGFlow 是一个基于深度文档理解的开源 RAG（检索增强生成）�
 [【cherry studio】](https://cherry-ai.com/)   [[github]](https://github.com/CherryHQ/cherry-studio)    [[官方文档]](https://docs.cherry-ai.com/)
  Cherry Studio 自带多种文生图模型，实现快捷在本地部署知识库与AI助手。
 
+ [【dify】](https://dify.ai/)   [[github]](https://github.com/langgenius/dify)    [[官方文档]](https://docs.dify.ai/en/introduction)
+Dify 是一个开源的 LLM 应用开发平台。其直观的界面融合了 Agentic AI 工作流、RAG 流水线、代理功能、模型管理、可观察性功能等，让您能够快速从原型开发过渡到生产环境。
+
+
 # 行业前沿ai agent平台应用
 ## 国内版本
 [【字节跳动 国内版 扣子 coze】](https://www.coze.cn)  [[官方文档]](https://www.coze.cn/docs/guides/quickstart)
