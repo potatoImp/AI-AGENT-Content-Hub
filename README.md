@@ -56,6 +56,8 @@ RAGFlow 是一个基于深度文档理解的开源 RAG（检索增强生成）�
  [【dify】](https://dify.ai/)   [[github]](https://github.com/langgenius/dify)    [[官方文档]](https://docs.dify.ai/en/introduction)
 Dify 是一个开源的 LLM 应用开发平台。其直观的界面融合了 Agentic AI 工作流、RAG 流水线、代理功能、模型管理、可观察性功能等，让您能够快速从原型开发过渡到生产环境。
 
+[【LlamaIndex】](https://www.llamaindex.ai/)   [[github]](https://github.com/run-llama/llama_index)    [[官方文档]](https://docs.llamaindex.ai/en/stable/module_guides/loading/documents_and_nodes/)
+LlamaIndex 赋予了开发者深入数据、精雕细琢的能力，用于构建复杂、高性能 AI 应用，更偏向于开发者使用。如果你是一位开发者且需要高度定制化，比如文档解析分块自定义元数据。
 
 # 行业前沿ai agent平台应用
 ## 国内版本
